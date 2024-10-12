@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://cdnjs.com/libraries/font-awesome">
+</head>
+<body>
+    <div class="parent1">
+    <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/logo.png" alt="">
+ <form action="url" method="post">
+  <input type="text" name="name" value="hchvbcvcvvc">
+</form>
+<a href="#">Home</a>
+  <a href="">Browse</a>
+  <a href="#">Detalls</a>
+  <a href="#">streams</a>
+      <a href="#">profill <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/html&css_finalproject/htm&css_finalProject/images/profile-header.jpg" alt="" width="20px"></a>
+    </div>
+  
+  
+  <div class="parent2">
+        <div class="child1">
+         <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/banner-bg.jpg" alt="" >
+        
+         <div class="a1">
+             <p>Welcome to cyborg</p>
+             <b><span>BROWSE</span> OUR POPULAR GAMES HERE</b><br><br>
+             <a href="#">Browse Now</a>
+             </div> 
+             </div>
+             
+             <div class="child2">
+                 <p><span class="span1">Most popular</span> <span class="span2">Right Now</span> </p>
+                 <div class="A">
+                     
+                     
+                        <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                     <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+ 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                 
+                 <div class="a1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-02.jpg" alt="">
+                     <p>Fortnite <span class="span1">⭐4.8</span></p>
+                        <p><span class="span2">sandbox</span>📥2.3M</p>
+                 </div>
+                       </div>
+             
+             
+             
+             
+            <a href="#">Discover populsr</a>
+            </div>
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             <div class="child3">
+                 <p><span class="span1">Your Gaming</span> <span class="span2">Library</span> </p>
+                 <div class="a1">
+                     <div class="p1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-01.jpg" alt=""><br><br><br><br>
+                <p><span class="span1">Dota2</span><br>Sandbox</p>
+                </div>
+                   <p><span class="span1">Dota2</span><br>Sandbox</p>
+                      <p><span class="span1">Dota2</span><br>Sandbox</p>
+                         <p><span class="span1">Dota2</span><br>Sandbox</p>
+         <button>Donwload</button>
+                         
+                 </div>
+                 <hr>
+                 
+                 
+                 
+                 
+                 
+                    <div class="a1">
+                     <div class="p1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-01.jpg" alt=""><br><br><br><br>
+                <p><span class="span1">Dota2</span><br>Sandbox</p>
+                </div>
+                   <p><span class="span1">Dota2</span><br>Sandbox</p>
+                      <p><span class="span1">Dota2</span><br>Sandbox</p>
+                         <p><span class="span1">Dota2</span><br>Sandbox</p>
+         <button>Donwload</button>  
+                 </div>
+                 <hr>
+                 
+                 
+                 
+                 
+                 
+                 
+                    <div class="a1">
+                     <div class="p1">
+                     <img src="/storage/emulated/0/Android/media/com.transsion.phoenix/PHX_Archive/phx_extracted/htm&css_finalProject/htm&css_finalProject/images/game-01.jpg" alt=""><br><br><br><br>
+                <p><span class="span1">Dota2</span><br>Sandbox</p>
+                </div>
+                   <p><span class="span1">Dota2</span><br>Sandbox</p>
+                      <p><span class="span1">Dota2</span><br>Sandbox</p>
+                         <p><span class="span1">Dota2</span><br>Sandbox</p>
+         <button>Donwload</button>          
+                 </div>
+                 <hr>
+                 
+                 
+                 
+                 
+                   <a href="#">Discover populsr</a>
+                 
+             </div>
+         
+  </div>
+  
+  <div class="footer">
+<footer>Copyright © 2036 Cyborg Gaming Company. All rights reserved.<br>
+<span>Design: TemplateMo</span></footer>
+  </div>
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+</body>
+</html>
